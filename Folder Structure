@@ -1,0 +1,16 @@
+nbody_simulator/
+│
+├─ core/
+│   ├─ body.py
+│   └─ engine.py
+│
+├─ render/
+│   └─ renderer.py
+│
+├─ config/
+│   └─ example_config.json
+│
+├─ examples/
+│   └─ solar_system.py
+│
+└─ main.py
